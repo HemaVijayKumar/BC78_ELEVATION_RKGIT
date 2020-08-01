@@ -12,7 +12,7 @@ LiquidCrystal lcd(7,6,5,4,3,2); // pins for LCD Connection
 #define buzzer 12 // buzzer pin
 #define led 13 //led pin
 
-#define x A0 // x_out pin of Acceleromoter
+#define x A0 // x_out pin of Accelerometer
 #define y A1 // y_out pin of Accelerometer
 #define z A2 // z_out pin of Accelerometer
 
