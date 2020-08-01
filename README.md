@@ -91,7 +91,7 @@ delay(100);
 /* comparing change with predefined limits*/
 if(xValue < minVal || xValue > maxVal || yValue < minVal || yValue > maxVal || zValue < minVal || zValue > maxVal)
 {
-if(buz == 0)
+if(buzz==0)
 start=millis(); // timer start
 buz=1; // buzzer / led flag activated
 }
