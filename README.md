@@ -22,7 +22,6 @@ int ysample=0;
 int zsample=0;
 long start;
 int buz=0;
-
 /*Macros*/
 #define samples 50
 #define maxVal 20 // max change limit
