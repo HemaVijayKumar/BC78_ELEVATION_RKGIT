@@ -126,7 +126,7 @@ Serial.println(" $");
 
 
 
-PROCESSING IDE    :
+PROCESSING IDE :
 import processing.serial.*;
 PFont f6,f8,f12,f10;
 PFont f24;
