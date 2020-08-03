@@ -28,7 +28,6 @@ int buz=0;
 #define maxVal 20 // max change limit
 #define minVal -20 // min change limit
 #define buzTime 5000 // buzzer on time
-
 void setup()
 {
 lcd.begin(16,2); //initializing lcd
